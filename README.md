@@ -9,7 +9,7 @@
   ╚═════╝ ╚══════╝   ╚═╝   ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝
 ```
 
-> **Dünyadaki en detaylı Web dökümantasyonu:** Bu rehber; IANA (Standard), WebDAV, Cloudflare, Nginx, AWS, IIS, Laravel ve Twitter tarafından tanımlanmış bilinen **tüm HTTP ve HTTPS durum kodlarını** tek bir kaynakta toplar.
+> **Dünyadaki en detaylı Web dökümantasyonu:** Bu rehber; IANA (Standard), WebDAV, Cloudflare, Nginx, AWS, IIS, Laravel ve Twitter tarafından tanımlanmış bilinen **tüm HTTP ve HTTPS durum kodlarını** tek bir kaynakta toplamaya çalışır.
 
 ---
 
