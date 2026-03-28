@@ -133,4 +133,4 @@ Sunucu tarafında oluşan teknik arızaları ve ağ geçidi hatalarını belirti
 
 ---
 > [!IMPORTANT]
-> Bu doküman dünyadaki tüm Web standartlarını kapsayacak şekilde 2026 yılı güncelliğiyle hazırlanmıştır. İlana göre eksik kod bulunmamaktadır.
+> Bu doküman dünyadaki tüm Web standartlarını kapsayacak şekilde 2026 yılı güncelliğiyle hazırlanmıştır.
